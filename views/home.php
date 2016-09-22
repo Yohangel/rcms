@@ -1,0 +1,1 @@
+<div style="margin:10px"><?= $site->siteConfig()->contentHome; ?></div>
